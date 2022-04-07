@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InputMyName_Collera/1.0.0": {
+        "runtime": {
+          "InputMyName_Collera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InputMyName_Collera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

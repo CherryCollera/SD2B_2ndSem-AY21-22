@@ -1,0 +1,258 @@
+1 <-----
+class CompareNames
+    {
+        static void Main(string[] args)
+        {
+            string string1 = "Byen";
+            string string2 = "Byen"; 
+            string string3 = "byen";
+            string string4 = "BYEN";
+
+            Console.WriteLine("Using Equals() method");
+
+            Console.WriteLine(" compare {0} to {1}: {2}", string1, string2, String.Equals(string1, string2));
+            Console.WriteLine(" compare {0} to {1}: {2}", string1, string3, String.Equals(string1, string3));
+            Console.WriteLine(" Length of {0} is {1} ", string1, string1.Length);
+            Console.WriteLine(" String {0} Substring(0, 3) will return {1}", string5, string5.Substring(0, 3));
+
+            Console.WriteLine("Using Compare() method");
+            Console.WriteLine(" compare {0} to {1}: {2}", string1, string2, String.Compare(string1, string2));
+            Console.WriteLine(" compare {0} to {1}: {2}", string1, string3, String.Compare(string1, string3));
+            Console.WriteLine(" compare {0} to {1}: {2}", string3, string1, String.Compare(string3, string1));
+            Console.WriteLine(" compare {0} to {1}: {2}", string4, string5, String.Equals(string4, string5));
+            
+
+            Console.WriteLine("Using CompareTo() method");
+            Console.WriteLine(" compare {0} to {1}: (2)", string1, string2, string1.CompareTo(string2));
+            Console.WriteLine(" compare {0} to {1}: {2}", string1, string3, string1.CompareTo(string3));
+            Console.WriteLine(" compare {0} to {1}: {2}", string3, string1, string3.CompareTo(string1));
+            Console.ReadKey();
+        }
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+2<-------
+
+   class CompareNumbers
+    {
+        static void Main(string[] args)
+        {
+            int num1, num2, num3;
+            Console.Write("\nEnter First Number: ");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter Second Number: ");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter Third Number: ");
+            num3 = Convert.ToInt32(Console.ReadLine());
+
+            if (num1 > num2 && num1 > num3)
+            {
+                Console.WriteLine("{0} is greater than {1} and {2}", num1, num2, num3);
+                Console.WriteLine("{0} is less than {1}", num2, num1);
+                Console.WriteLine("{0} is less than {1}", num3, num1);
+                Console.ReadLine();
+            }
+            else if (num2 > num1 && num2 > num3)
+            {
+                Console.WriteLine("{0} is greater than {1} and {2}", num2, num1, num3);
+                Console.WriteLine("{0} is less than {1}", num1, num2);
+                Console.WriteLine("{0} is less than {1}", num3, num2);
+                Console.ReadLine();
+            }
+            else if (num3 > num1 && num3 > num2)
+            {
+                Console.WriteLine("{0} is greater than {1} and {2}", num3, num1, num2);
+                Console.WriteLine("{0} is less than {1}", num1, num3);
+                Console.WriteLine("{0} is less than {1}", num2, num3);
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("{0}, {1}, and {2} are equal", num1, num2, num3);
+                Console.ReadLine();
+            }
+        }
+    }
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+3<-------
+
+    class GradingSystem
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter your Grade     :   ");
+            string grades = Console.ReadLine();
+
+            if (grades.ToLower() != "inc") 
+            { 
+                int grade = Convert.ToInt32(grades);
+                                
+                if (grade >= 98 && grade <= 100)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   1.00");
+                    Console.WriteLine("Remarks          :   Excellent");
+                    Console.ReadLine();
+                }
+                else if (grade >= 95 && grade <= 97)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   1.25");
+                    Console.WriteLine("Remarks          :   Excellent");
+                    Console.ReadLine();
+                }
+                else if (grade >= 92 && grade <= 94)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   1.50");
+                    Console.WriteLine("Remarks          :   Very Good");
+                    Console.ReadLine();
+                }
+                else if (grade >= 89 && grade <= 91)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   1.75");
+                    Console.WriteLine("Remarks          :   Very Good");
+                    Console.ReadLine();
+                }
+                else if (grade >= 86 && grade <= 88)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   2.00");
+                    Console.WriteLine("Remarks          :   Good");
+                    Console.ReadLine();
+                }
+                else if (grade >= 83 && grade <= 85)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   2.25");
+                    Console.WriteLine("Remarks          :   Good");
+                    Console.ReadLine();
+                }
+                else if (grade >= 80 && grade <= 82)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   2.50");
+                    Console.WriteLine("Remarks          :   Fair");
+                    Console.ReadLine();
+                }
+                else if (grade >= 77 && grade <= 79)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   2.75");
+                    Console.WriteLine("Remarks          :   Passed");
+                    Console.ReadLine();
+                }
+                else if (grade >= 75 && grade <= 76)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   3.00");
+                    Console.WriteLine("Remarks          :   Passed");
+                    Console.ReadLine();
+                }
+                else if (grade >= 72 && grade <= 74)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   4.00");
+                    Console.WriteLine("Remarks          :   Conditional");
+                    Console.ReadLine();
+                }
+                else if (grade >= 60 && grade <= 71)
+                {
+                    Console.WriteLine("\nGrade Equivalent :   5.00");
+                    Console.WriteLine("Remarks          :   Failed");
+                    Console.ReadLine();
+                }
+                else
+                {
+                    Console.WriteLine("\nINVALID");
+                    Console.ReadLine();
+                }
+            }
+            else 
+            {
+                Console.WriteLine("\nGrade Equivalent :   INCOMPLETE");
+                Console.WriteLine("Remarks          :   INCOMPLETE");
+                Console.ReadLine();
+            }
+        }
+    }
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+4<---------
+   class Switch
+    {
+        static void Main(string[] args)
+        {
+            String name;
+            char gender;
+
+            Console.Write("Enter your name: ");
+            name = Console.ReadLine();
+            Console.Write("Enter your gender M/F: ");
+            gender = Convert.ToChar(Console.ReadLine());
+
+            switch (gender)
+            {
+                case 'M': 
+                case 'm':
+                    Console.WriteLine("\nHi" + name + "!"
+                        + ("Your gender is Male!"));
+                    break;
+
+                case 'F':
+                case 'f':
+                    Console.WriteLine("\nHi" + name + "!"
+                        + ("Your gender is Female!"));
+                    break;
+                default:
+                    Console.WriteLine("\nInvalid Input... Try Again...");
+                    break;
+            }
+            Console.ReadKey();
+        }
+    }
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+5<--------
+    class For
+    {
+        static void Main(string[] args)
+        {
+            for (int i = 10 - 1; i >= 0; i--)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadKey();
+        }
+    }
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+6<---------
+   class While
+    {
+        static void Main(string[] args)
+        {
+            int i = 0;
+            while (i < 10)
+            {
+                Console.Write("While Statement ");
+                Console.WriteLine(i);
+                i++;
+            }
+            Console.ReadLine();
+        }
+    }
+}
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+7<-------------------
+   class DoWhile
+    {
+        static void Main(string[] args)
+        {
+            int[] ArrayInt = new int[] { 6, 7, 8, 10 };
+            int ArraySum = 0;
+            int i = 0;
+            do
+            {
+                ArraySum += ArrayInt[i];
+                i++;
+            } while (i < 4);
+            
+            Console.WriteLine(ArraySum);
+            Console.ReadKey();
+        }
+    }

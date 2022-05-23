@@ -1,0 +1,16 @@
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\net5.0\Sample2_MyProfile.exe
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\net5.0\Sample2_MyProfile.deps.json
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\net5.0\Sample2_MyProfile.runtimeconfig.json
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\net5.0\Sample2_MyProfile.runtimeconfig.dev.json
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\net5.0\Sample2_MyProfile.dll
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\net5.0\ref\Sample2_MyProfile.dll
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\net5.0\Sample2_MyProfile.pdb
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.csproj.AssemblyReference.cache
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.AssemblyInfoInputs.cache
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.AssemblyInfo.cs
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.csproj.CoreCompileInputs.cache
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.dll
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\ref\Sample2_MyProfile.dll
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.pdb
+C:\Users\regee\source\repos\regee\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\net5.0\Sample2_MyProfile.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\net5.0\Sample1_HelloWorld.exe
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\net5.0\Sample1_HelloWorld.deps.json
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\net5.0\Sample1_HelloWorld.runtimeconfig.json
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\net5.0\Sample1_HelloWorld.runtimeconfig.dev.json
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\net5.0\Sample1_HelloWorld.dll
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\net5.0\ref\Sample1_HelloWorld.dll
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\net5.0\Sample1_HelloWorld.pdb
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.AssemblyInfo.cs
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.dll
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\ref\Sample1_HelloWorld.dll
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.pdb
+C:\Users\regee\source\repos\regee\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\net5.0\Sample1_HelloWorld.genruntimeconfig.cache

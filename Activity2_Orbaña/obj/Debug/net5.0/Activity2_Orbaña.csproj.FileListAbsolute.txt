@@ -1,0 +1,16 @@
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\bin\Debug\net5.0\Activity2_Orbaña.exe
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\bin\Debug\net5.0\Activity2_Orbaña.deps.json
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\bin\Debug\net5.0\Activity2_Orbaña.runtimeconfig.json
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\bin\Debug\net5.0\Activity2_Orbaña.runtimeconfig.dev.json
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\bin\Debug\net5.0\Activity2_Orbaña.dll
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\bin\Debug\net5.0\ref\Activity2_Orbaña.dll
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\bin\Debug\net5.0\Activity2_Orbaña.pdb
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.csproj.AssemblyReference.cache
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.AssemblyInfoInputs.cache
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.AssemblyInfo.cs
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.dll
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\ref\Activity2_Orbaña.dll
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.pdb
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Activity2_Orbaña\obj\Debug\net5.0\Activity2_Orbaña.genruntimeconfig.cache

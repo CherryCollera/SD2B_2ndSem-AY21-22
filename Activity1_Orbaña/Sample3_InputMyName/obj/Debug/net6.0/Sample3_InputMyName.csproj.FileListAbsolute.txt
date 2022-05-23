@@ -1,0 +1,15 @@
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\bin\Debug\net6.0\Sample3_InputMyName.exe
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\bin\Debug\net6.0\Sample3_InputMyName.deps.json
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\bin\Debug\net6.0\Sample3_InputMyName.runtimeconfig.json
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\bin\Debug\net6.0\Sample3_InputMyName.dll
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\bin\Debug\net6.0\Sample3_InputMyName.pdb
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.csproj.AssemblyReference.cache
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.AssemblyInfoInputs.cache
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.AssemblyInfo.cs
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.dll
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\refint\Sample3_InputMyName.dll
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.pdb
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\Sample3_InputMyName.genruntimeconfig.cache
+C:\Users\Sofia\Desktop\BSCS 2ndSem\OOP\ACTIVITY\CODE_OOP\Sample3_InputMyName\obj\Debug\net6.0\ref\Sample3_InputMyName.dll
